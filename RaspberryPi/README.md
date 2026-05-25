@@ -1159,4 +1159,3 @@ make -j$(nproc) CCACHE=y V=s
 
 ---
 
-> **다음 학습 주제**: ipTIME 공유기 OpenWrt 포팅 가이드를 참고하세요 (`C:\OpenWrt\Iptime\Iptime_OpenWrt_개발_가이드.md`)
